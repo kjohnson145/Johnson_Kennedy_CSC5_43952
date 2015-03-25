@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=PayCheckIfStatementV2
+PROJECTNAME=Gaddis_Chp4_7th_Pr22
 
 # Active Configuration
 DEFAULTCONF=Debug
